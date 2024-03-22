@@ -7,5 +7,7 @@ git add
 git commit
 git push
 git gui&
+gitk&
+git log
 
 
