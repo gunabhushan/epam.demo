@@ -9,5 +9,6 @@ git push
 git gui&
 gitk&
 git log
-
-
+head point to the last commit
+commit, tree, blob(binary large object)
+git show -s --pretty=raw commit_reference
