@@ -12,3 +12,8 @@ git log
 head point to the last commit
 commit, tree, blob(binary large object)
 git show -s --pretty=raw commit_reference
+
+git checkout -- filename.ext
+git checkout .
+git clean -xdf
+
