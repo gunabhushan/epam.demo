@@ -13,7 +13,13 @@ head point to the last commit
 commit, tree, blob(binary large object)
 git show -s --pretty=raw commit_reference
 
+Working directory
 git checkout -- filename.ext
 git checkout .
 git clean -xdf
 
+staging area (index)
+git reset --file.ext
+
+local branch
+git reset HEAD~(number of commits you want to roll back)
