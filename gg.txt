@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 git config --global user.name
 git config --global user.email
 git clone url
@@ -8,4 +6,4 @@ git status
 git add
 git commit
 git push
->>>>>>> ab8b411c656241e5038419aa48986132f6711b18
+
