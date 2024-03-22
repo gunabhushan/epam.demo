@@ -1,2 +1,8 @@
-this is game one
-this is game two
+git config --global user.name
+git config --global user.email
+git clone url
+git remote -v
+git status
+git add
+git commit
+git push
