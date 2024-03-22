@@ -6,6 +6,6 @@ git status
 git add
 git commit
 git push
+git gui&
 
-now added some gibrish
 
