@@ -7,6 +7,7 @@ git remote origin url
 git status
 git add
 git commit
+git commit --amend
 git push
 git gui&
 gitk&
@@ -31,3 +32,5 @@ git reset --mixed HEAD~
 git reset --hard HEAD~
 
 git revert nameOfTheHashCode
+
+.gitignore is used to mention all the files that need to be ignored by the git
