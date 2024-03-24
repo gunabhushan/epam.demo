@@ -59,3 +59,18 @@ it is used to restructure the nodes
 --Cherry-pick--
 The operation of copying a commit to a new place is called cherry pick.
 It cherry pick can allow any pick from any branch and allow us to keep it in any other branch
+
+--Tags--
+A tag is a small, compact, short text marker that can be used to mark a commit. It is used to decorate a commit, it is not a commit. We can use tags instead of shacodes to reference commits.
+
+Mark a commit with a tag
+git tag tag_name
+
+View tags
+git tag -list
+
+Only push tags to the repo
+git push --tags
+
+Check out the tag
+git checkout tag_name
