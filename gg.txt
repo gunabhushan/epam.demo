@@ -34,3 +34,9 @@ git reset --hard HEAD~
 git revert nameOfTheHashCode
 
 .gitignore is used to mention all the files that need to be ignored by the git
+
+----Branching-----
+git checkout -b branch_name
+git checkout branch_name
+git merge branch_name
+
