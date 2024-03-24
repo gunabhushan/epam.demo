@@ -57,4 +57,5 @@ git revert shacode
 it is used to restructure the nodes
 
 --Cherry-pick--
-
+The operation of copying a commit to a new place is called cherry pick.
+It cherry pick can allow any pick from any branch and allow us to keep it in any other branch
