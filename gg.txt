@@ -74,3 +74,19 @@ git push --tags
 
 Check out the tag
 git checkout tag_name
+
+--Stashing--
+The main idea at the basis of stashing is the capability to save our work, which has not been committed yet and is not ready for commiting, somewhere in a temporary storage.
+
+Save to stash
+git stash save "discription"
+
+View stashes
+git stash list
+
+Bring stashes back
+git stash pop stash_name
+git stash apply stash_name
+
+Remove stash
+git stash drop
