@@ -1,7 +1,9 @@
+git init
 git config --global user.name
 git config --global user.email
 git clone url
 git remote -v
+git remote origin url
 git status
 git add
 git commit
@@ -23,3 +25,8 @@ git reset --file.ext
 
 local branch
 git reset HEAD~(number of commits you want to roll back)
+
+git reset --soft HEAD~
+git reset --mixed HEAD~
+git reset --hard HEAD~
+
