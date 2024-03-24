@@ -52,3 +52,9 @@ git diff
 
 undo merge
 git revert shacode
+
+--Rebase--
+it is used to restructure the nodes
+
+--Cherry-pick--
+
