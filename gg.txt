@@ -40,3 +40,15 @@ git checkout -b branch_name
 git checkout branch_name
 git merge branch_name
 
+conflict resolution in git
+abort merge
+git merge --abort
+
+resolve by selecting version
+git checkout --Xours --Xtheirs
+
+resolve manually
+git diff
+
+undo merge
+git revert shacode
