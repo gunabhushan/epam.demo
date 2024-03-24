@@ -90,3 +90,11 @@ git stash apply stash_name
 
 Remove stash
 git stash drop
+
+---Branching strategies/Workflows---
+1 centralized strategy
+2 feature-branch workflow
+3 gitflow
+4 integratio manager workflow
+5 dictator and lieutenants workflow
+6 forking workflow
